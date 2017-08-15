@@ -3,4 +3,4 @@
 ```javascript
 console.log("Hej verden!");
 ```
-bruges til at skrive noget i consolen
+bruges til at skrive Hej verden! i consolen
