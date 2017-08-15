@@ -4,4 +4,3 @@
 console.log("Hej verden!");
 ```
 bruges til at skrive noget i consolen
-test
